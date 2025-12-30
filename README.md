@@ -4,7 +4,7 @@ Monorepo boilerplate with Express API and Next.js web app.
 
 ## Prerequisites
 
-- Node.js >= 18
+- Node.js >= 18 (I used: v25.2.1)
 - pnpm (install: `npm install -g pnpm`)
 - PostgreSQL database
 
